@@ -5,6 +5,12 @@ I take no responsibility for their use.
 These scripts were likely created for single-use cases and have not been thoroughly tested.
 I try to document the use case and known issues, but, as mentioned, I guarantee nothing.
 
+## Scripts
+### add_networks.py
+### download_rules.py
+### reverse_access_updater.py
+### rule_search.py
+
 ## License
 
 This project is licensed under the GPL License.
